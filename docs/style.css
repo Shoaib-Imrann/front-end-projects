@@ -364,6 +364,10 @@ main {
   }
 
   .ov-game {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     height: 640px;
     gap: 10px;
   }
