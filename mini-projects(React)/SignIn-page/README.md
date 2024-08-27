@@ -16,7 +16,7 @@ Ensure you have the following installed:
 1. Navigate to the Project Directory:
 
     ```bash
-    cd front-end-projects/mini-projects(react)/SignIn-page
+    cd "front-end-projects/mini-projects(React)/SignIn-page"
 
 2. Install Dependencies
 
