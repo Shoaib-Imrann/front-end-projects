@@ -1,12 +1,11 @@
 # Front-End Projects
-This repository contains a collection of front-end projects demonstrating various web development techniques and concepts. The projects are built using React and include several mini-projects and UI components.
+This repository features front-end projects built with React, showcasing various web development techniques and UI components.
 
 ## Mini-Projects (React) 
-- Description: Projects built with React, demonstrating UI components, form handling, and interactivity.
-- Built With: React, JavaScript, CSS.
+- This folder contains projects built with React, demonstrating UI components, form handling, and interactivity.
 
 ## Additional Mini-Projects
-- Description: Standalone projects using HTML, CSS, and JavaScript, focusing on layout design and basic game mechanics.
+- This folder contains Standalone projects using HTML, CSS, and JavaScript, focusing on layout design and basic game mechanics.
 
 ## Getting Started
 
@@ -27,4 +26,8 @@ This repository contains a collection of front-end projects demonstrating variou
     npm install
     npm start
 
-5. For HTML/CSS/JS Projects: Open the HTML files in a browser.    
+5. For HTML/CSS/JS Projects: Open the HTML files in a browser.
+
+## Features
+- All projects are fully responsive across various devices and screen sizes.
+- Each project includes a preview screenshot in its folder for a quick look at its design.
