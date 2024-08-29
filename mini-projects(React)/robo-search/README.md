@@ -4,8 +4,8 @@ A simple React app that displays a list of robots fetched from an API, with a se
 
 ## Features
 
--Fetches and displays robot users.
--Real-time search functionality.
+- Fetches and displays robot users.
+- Real-time search functionality.
 
 ### Installation
 
@@ -29,6 +29,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Built With
 
--React
--Tachyons
--JSONPlaceholder API
+- React
+- Tachyons
+- JSONPlaceholder API
