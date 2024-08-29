@@ -20,14 +20,10 @@ This repository features front-end projects built with React, showcasing various
     cd front-end-projects
 
 3. For React Projects:
-   Navigate to the specific React project folder and run:
-
-    ```bash
-    npm install
-    npm start
+   Refer to the 'README.md' file in the specific React project for setup instructions.
 
 5. For HTML/CSS/JS Projects: Open the HTML files in a browser.
 
 ## Features
 - All projects are fully responsive across various devices and screen sizes.
-- Each project includes a preview screenshot in its folder for a quick look at its design.
+- Each project includes a preview screenshot in its 'README.md' file for a quick look at its design.
