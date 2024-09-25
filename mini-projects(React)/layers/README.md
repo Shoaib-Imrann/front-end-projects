@@ -29,7 +29,7 @@ Built with React and Tailwind CSS to manage and interact with various types of d
 
     Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
-## Demo
+## Preview
 
 ![Demo](./src/preview.gif)
 
