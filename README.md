@@ -1,5 +1,5 @@
 # Front-End Projects
-This repository features front-end projects built with React, showcasing various web development techniques and UI components.
+This repository showcases various web development techniques and UI components.
 
 
 ## Getting Started
