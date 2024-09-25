@@ -1,8 +1,36 @@
-# React + Vite
+# Layers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built with React and Tailwind CSS to manage and interact with various types of documents and files.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Integrated **Framer Motion** for smooth animations.
+- Visual tags that indicate the status of each file.
+
+## Installation
+
+1. **Navigate to the Project Directory:**
+
+    ```bash
+    cd "mini-projects(React)/layers"
+    ```
+
+2. **Install Dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+3. **Start the Server:**
+
+    ```bash
+    npm start
+    ```
+
+    Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+
+## Built With
+
+- **React**
+- **Tailwind CSS**
+- **Framer Motion**
