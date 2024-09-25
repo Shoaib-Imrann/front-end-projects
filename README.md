@@ -1,11 +1,6 @@
 # Front-End Projects
 This repository features front-end projects built with React, showcasing various web development techniques and UI components.
 
-## Mini-Projects (React) 
-- This folder contains projects built with React, demonstrating UI components, form handling, and interactivity.
-
-## Additional Mini-Projects
-- This folder contains Standalone projects using HTML, CSS, and JavaScript, focusing on layout design and basic game mechanics.
 
 ## Getting Started
 
