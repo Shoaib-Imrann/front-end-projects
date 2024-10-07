@@ -1,5 +1,3 @@
-This repository showcases various web development techniques and UI components.
-
 
 ## Getting Started
 
