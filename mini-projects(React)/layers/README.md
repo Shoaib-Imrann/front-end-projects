@@ -4,8 +4,6 @@ Built with React and Tailwind CSS to manage and interact with various types of d
 
 Visit the site - https://layers-lovat.vercel.app
 
-## Features
-
 - Integrated **Framer Motion** for smooth animations.
 - Visual tags that indicate the status of each file.
 
