@@ -14,8 +14,7 @@
 3. **For React Projects** - 
    Refer to the `README.md` file in the specific React project for setup instructions.
 
-5. **For HTML/CSS/JS Projects** - 
-   Open the HTML files in a browser.
+
 
 
 - All projects are fully responsive across various devices and screen sizes.
