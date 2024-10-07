@@ -2,10 +2,8 @@
 
 A simple React app that displays a list of robots fetched from an API, with a search feature to filter robots by name.
 
-## Features
-
 - Fetches and displays robot users.
-- Real-time search functionality.
+- Real-time search.
 
 ### Installation
 
