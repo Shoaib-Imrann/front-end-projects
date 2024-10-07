@@ -1,6 +1,6 @@
 ## Preview
 
-A simple one page layput 
+A simple one page layout 
 
 Visit the site - https://web-layout-rho.vercel.app
 
