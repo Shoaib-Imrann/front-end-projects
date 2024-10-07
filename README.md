@@ -1,4 +1,3 @@
-# Front-End Projects
 This repository showcases various web development techniques and UI components.
 
 
@@ -20,6 +19,6 @@ This repository showcases various web development techniques and UI components.
 5. **For HTML/CSS/JS Projects** - 
    Open the HTML files in a browser.
 
-## Features
+
 - All projects are fully responsive across various devices and screen sizes.
-- Each project includes a preview screenshot in its `README.md` file for a quick look at its design.
+- Each project includes a preview in its `README.md`
