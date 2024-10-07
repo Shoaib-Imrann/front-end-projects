@@ -1,14 +1,5 @@
-# React SignIn Form
+# SignIn Form
 
-This project showcases a SignIn form designed with React.
-
-
-
-## Getting Started
-
-Ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
 
 
 ### Installation
@@ -28,11 +19,10 @@ Ensure you have the following installed:
     ```bash
     npm start
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 
-# Here’s  a  preview  of  the  UI:
+# Preview :
 
 ![Signup Form UI](preview/form.jpg)
