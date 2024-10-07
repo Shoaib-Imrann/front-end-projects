@@ -1,7 +1,8 @@
-## Here's a preview
-Run `index.html` to check out the animation and Responsiveness.
+## Preview
 
-Visit - https://web-layout-rho.vercel.app
+A simple one page layput 
+
+Visit the site - https://web-layout-rho.vercel.app
 
 ![Signup Form UI](preview/wbl.jpg)
 
